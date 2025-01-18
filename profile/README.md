@@ -3,3 +3,8 @@
 ![Club Logo](assets/logo.jpeg)
 
 Public Github Description
+
+
+##PROJECTS
+-project1
+-project2
